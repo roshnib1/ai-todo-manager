@@ -15,9 +15,8 @@ This web app allows users to create, edit, delete, and manage tasks while also r
 - **Backend:** Python, Flask  
 - **Frontend:** HTML, CSS, JavaScript  
 - **AI Integration:** Hugging Face Transformers (GPT-2)  
-- **Styling:** Tailwind CSS (or custom CSS)  
-- **Optional AI API:** OpenAI GPT models (if configured)  
-
+- **Styling:** Tailwind CSS (or custom CSS)
+- 
 ---
 
 ## **Features Implemented**
@@ -46,4 +45,5 @@ This web app allows users to create, edit, delete, and manage tasks while also r
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/roshnib1/ai-todo-manager
+
    cd To-Do-Manager
